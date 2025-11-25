@@ -12,3 +12,4 @@ This repository contains a collection of Jupyter Notebooks to practice **basic P
 - Anagrams and simple algorithms (e.g. `Sorted_Anagram.ipynb`)
 - Intro to linear regression with scikit-learn (e.g. `linear_regression_mit_sklearn.ipynb`)
 - Small practice examples (e.g. `ducks_squares.ipynb`)
+- Basic graph theory examples using NetworkX (e.g. `Graph_theory_petersen_graph_networkx.ipynb`)
